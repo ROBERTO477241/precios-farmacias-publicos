@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "generado_en": "2026-11-12T17:31:46+00:00",
+  "fuentes_comprobadas_esta_ejecucion": 5,
+  "fuentes_intentadas": 7,
+  "precios": [
+    {
+      "id": 210107754124944,
+      "source_id": "prayanol-farmaloop",
+      "med": "prayanol",
+      "farm": "farmaloop",
+      "name": "Farmaloop",
+      "mode": "internet",
+      "value": 12390,
+      "date": "2026-11-12",
+      "captured_at": "2026-11-12T17:31:46+00:00",
+      "link": "https://www.farmaloop.cl/products/prayanol-100-mg-x-30-capsulas-82261/",
+      "terms": "Precio web publicado; no incluye despacho ni beneficios personales",
+      "grade": "fuente_directa_auto",
+      "status": "capturado",
+      "method": "jsonld_product_offers"
+    },
+    {
+      "id": 50224456145664,
+      "source_id": "prayanol-ahumada",
+      "med": "prayanol",
+      "farm": "ahumada",
+      "name": "Farmacias Ahumada",
+      "mode": "internet",
+      "value": 14585,
+      "date": "2026-11-12",
+      "captured_at": "2026-11-12T17:31:46+00:00",
+      "link": "https://www.farmaciasahumada.cl/prayanol-100-mg-x-30-capsulas-86404.html",
+      "terms": "Precio web publicado; no incluye despacho ni beneficios personales",
+      "grade": "fuente_directa_auto",
+      "status": "capturado",
+      "method": "jsonld_product_offers"
+    },
+    {
+      "id": 204485746874862,
+      "source_id": "elbrus-ahumada",
+      "med": "elbrus",
+      "farm": "ahumada",
+      "name": "Farmacias Ahumada",
+      "mode": "internet",
+      "value": 28772,
+      "date": "2026-11-12",
+      "captured_at": "2026-11-12T17:31:46+00:00",
+      "link": "https://www.farmaciasahumada.cl/elbrus-1-mg-x-30-comprimidos-90308.html",
+      "terms": "Precio web publicado; no incluye despacho ni beneficios personales",
+      "grade": "fuente_directa_auto",
+      "status": "capturado",
+      "method": "jsonld_product_offers"
+    },
+    {
+      "id": 270048015288209,
+      "source_id": "urostop-cruzverde",
+      "med": "urostop",
+      "farm": "cruzverde",
+      "name": "Cruz Verde",
+      "mode": "internet",
+      "value": 21512,
+      "date": "2026-11-12",
+      "captured_at": "2026-11-12T17:31:46+00:00",
+      "link": "https://beta.cruzverde.cl/urostop-tolterodina-tartrato-2-mg-30-comprimidos/270004.html",
+      "terms": "Precio web publicado; no incluye despacho ni beneficios personales",
+      "grade": "fuente_directa_auto",
+      "status": "capturado",
+      "method": "jsonld_product_offers"
+    },
+    {
+      "id": 234848496044348,
+      "source_id": "urostop-ahumada",
+      "med": "urostop",
+      "farm": "ahumada",
+      "name": "Farmacias Ahumada",
+      "mode": "internet",
+      "value": 26559,
+      "date": "2026-11-12",
+      "captured_at": "2026-11-12T17:31:46+00:00",
+      "link": "https://www.farmaciasahumada.cl/urostop-2-mg-x-30-comprimidos-recubiertos-82410.html",
+      "terms": "Precio web publicado; no incluye despacho ni beneficios personales",
+      "grade": "fuente_directa_auto",
+      "status": "capturado",
+      "method": "jsonld_product_offers"
+    }
+  ],
+  "errores": [
+    {
+      "fuente": "prayanol-salcobrand",
+      "motivo": "Sin precio verificado"
+    },
+    {
+      "fuente": "elbrus-salcobrand",
+      "motivo": "Sin precio verificado"
+    }
+  ]
+}
