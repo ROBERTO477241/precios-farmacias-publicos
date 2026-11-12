@@ -1,5 +1,12 @@
 name: Actualizar precios públicos diariamente
 on:
+  push:
+    branches: [main]
+    paths:
+      - actualizar_precios.py
+      - fuentes.json
+      - tests/**
+      - .github/workflows/actualizar.yml
   workflow_dispatch:
   schedule:
     - cron: "25 11 * * *"
