@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "objetivo": "Solo precios públicos, sin información personal",
+  "productos": [
+    {"id":"prayanol-farmaloop","medicamento_id":"prayanol","farmacia":"Farmaloop","farmacia_id":"farmaloop","modalidad":"internet","url":"https://www.farmaloop.cl/products/prayanol-100-mg-x-30-capsulas-82261/","marca_esperada":"prayanol","dosis_mg":100,"unidades":30},
+    {"id":"prayanol-salcobrand","medicamento_id":"prayanol","farmacia":"Salcobrand","farmacia_id":"salcobrand","modalidad":"internet","url":"https://salcobrand.cl/products/prayanol-30-capsulas","marca_esperada":"prayanol","dosis_mg":100,"unidades":30},
+    {"id":"prayanol-ahumada","medicamento_id":"prayanol","farmacia":"Farmacias Ahumada","farmacia_id":"ahumada","modalidad":"internet","url":"https://www.farmaciasahumada.cl/prayanol-100-mg-x-30-capsulas-86404.html","marca_esperada":"prayanol","dosis_mg":100,"unidades":30},
+    {"id":"elbrus-salcobrand","medicamento_id":"elbrus","farmacia":"Salcobrand","farmacia_id":"salcobrand","modalidad":"internet","url":"https://salcobrand.cl/products/elbrus-b-rasagilina-1mg-30-comprimidos","marca_esperada":"elbrus","dosis_mg":1,"unidades":30},
+    {"id":"elbrus-ahumada","medicamento_id":"elbrus","farmacia":"Farmacias Ahumada","farmacia_id":"ahumada","modalidad":"internet","url":"https://www.farmaciasahumada.cl/elbrus-1-mg-x-30-comprimidos-90308.html","marca_esperada":"elbrus","dosis_mg":1,"unidades":30},
+    {"id":"urostop-cruzverde","medicamento_id":"urostop","farmacia":"Cruz Verde","farmacia_id":"cruzverde","modalidad":"internet","url":"https://beta.cruzverde.cl/urostop-tolterodina-tartrato-2-mg-30-comprimidos/270004.html","marca_esperada":"urostop","dosis_mg":2,"unidades":30},
+    {"id":"urostop-ahumada","medicamento_id":"urostop","farmacia":"Farmacias Ahumada","farmacia_id":"ahumada","modalidad":"internet","url":"https://www.farmaciasahumada.cl/urostop-2-mg-x-30-comprimidos-recubiertos-82410.html","marca_esperada":"urostop","dosis_mg":2,"unidades":30}
+  ]
+}
